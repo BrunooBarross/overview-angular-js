@@ -91,7 +91,7 @@
 - Uma diretiva do AngularJS que é usada para validar um campo de entrada com base em uma expressão regular especificada. O formulário será considerado inválido se o valor do campo de entrada não corresponder à expressão regular.
 
 **ng-messages**
-Uma diretiva do AngularJS que permite exibir mensagens de erro de validação para campos de entrada em formulários. Ela exibe uma mensagem de erro associada a uma determinada validação somente se essa validação falhar.
+- Uma diretiva do AngularJS que permite exibir mensagens de erro de validação para campos de entrada em formulários. Ela exibe uma mensagem de erro associada a uma determinada validação somente se essa validação falhar.
 
 **ng-message**
 - Uma diretiva do AngularJS que é usada para exibir uma mensagem de erro específica para um campo de entrada com base em uma determinada validação. É usado em conjunto com a diretiva ng-messages para exibir mensagens de erro personalizadas.
